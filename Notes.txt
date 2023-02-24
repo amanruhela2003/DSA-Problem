@@ -1,0 +1,44 @@
+<!================= Data Structures ====================!>
+
+-Manage Time & Space
+time and space complexity
+Array1D
+
+-Asymptotic Analysis
+
+c < loglogn < logn < n^1/3 < n^1/2 < n < n2 < n3 < ..... 2^n < n^n [Order of Growth of function]
+
+-best case : constant
+-avg case   : linear(depends on condition)
+-worst case : linear
+
+=====================================================
+Array
+-contiguous memory allocation
+-random access
+-cache friendly
+
+ArrayCRUD Opeartions
+
+======================Some Basic Questions On Array========================================
+1.Find Max from an Array
+ i/p: arr={2,4,5,4,2,9}
+ o/p: 9
+
+2.Find Second Max from Array
+
+3.Find Span of an Array? span=max-min
+
+4.Is Arrry Sorted? T/F
+
+5.print bar chart
+ i/p:{2,0,4,1,3,7}
+
+6.Reverse an array[Approach: Two pointer]
+
+Pair sum/ Two Sum: Leetcode
+ i/p: arr[]={2,1,4,6,,7,5},k=10
+ o/p: 4,6
+ Approach_1=Use nested loop
+ Approach_2=use Hashmap
+ Approach_3=Use Two Pointer
